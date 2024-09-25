@@ -12,5 +12,4 @@ public class LeftCmd implements Command{
     }
 
 
-
 }
